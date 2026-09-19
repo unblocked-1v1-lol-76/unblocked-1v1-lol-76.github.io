@@ -52,7 +52,7 @@
   margin-right:auto !important;
 }
 .page-hero .ad-slot-center > .ad-placeholder,
-.page-hero #fine-arts-lol_970x250{
+.page-hero #paperio-pro_970x250{
   display:block !important;
   width:970px !important;
   max-width:100% !important;
@@ -60,8 +60,8 @@
   margin-right:auto !important;
   text-align:center !important;
 }
-.page-hero #fine-arts-lol_970x250 > iframe,
-.page-hero #fine-arts-lol_970x250 iframe{
+.page-hero #paperio-pro_970x250 > iframe,
+.page-hero #paperio-pro_970x250 iframe{
   display:block !important;
   margin-left:auto !important;
   margin-right:auto !important;
@@ -117,8 +117,8 @@
   overflow:visible !important;
 }
 
-.page-hero .category-ad-fixed > #fine-arts-lol_970x250,
-.category-ad-fixed > #fine-arts-lol_970x250{
+.page-hero .category-ad-fixed > #paperio-pro_970x250,
+.category-ad-fixed > #paperio-pro_970x250{
   box-sizing:border-box !important;
   display:block !important;
   flex:0 0 970px !important;
@@ -137,8 +137,8 @@
   overflow:hidden !important;
 }
 
-.page-hero .category-ad-fixed > #fine-arts-lol_970x250 iframe,
-.category-ad-fixed > #fine-arts-lol_970x250 iframe{
+.page-hero .category-ad-fixed > #paperio-pro_970x250 iframe,
+.category-ad-fixed > #paperio-pro_970x250 iframe{
   display:block !important;
   box-sizing:border-box !important;
 
@@ -169,8 +169,8 @@
     -webkit-overflow-scrolling:touch;
   }
 
-  .page-hero .category-ad-fixed > #fine-arts-lol_970x250,
-  .category-ad-fixed > #fine-arts-lol_970x250{
+  .page-hero .category-ad-fixed > #paperio-pro_970x250,
+  .category-ad-fixed > #paperio-pro_970x250{
     margin-left:max(0px, calc((100vw - 970px)/2)) !important;
     margin-right:0 !important;
   }

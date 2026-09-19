@@ -52,18 +52,18 @@ footer .footer-seo-copy{
 @media(max-width:720px){.game-heading{align-items:flex-start;gap:14px}.game-heading img{width:120px;height:120px;border-radius:16px}.game-seo-content{padding:20px}.game-breadcrumb{margin-top:12px}}
 
 .game-page-ad{width:100%;display:flex;justify-content:center;align-items:center;margin:12px auto 14px;overflow:hidden;text-align:center}
-.game-page-ad #fine-arts-lol_970x250{width:970px;max-width:100%;min-height:250px;margin:0 auto;text-align:center}
+.game-page-ad #paperio-pro_970x250{width:970px;max-width:100%;min-height:250px;margin:0 auto;text-align:center}
 .game-page-ad iframe{display:block;margin-left:auto!important;margin-right:auto!important;max-width:100%!important}
-@media(max-width:720px){.game-page-ad{margin:9px auto 11px}.game-page-ad #fine-arts-lol_970x250{min-height:90px}}
+@media(max-width:720px){.game-page-ad{margin:9px auto 11px}.game-page-ad #paperio-pro_970x250{min-height:90px}}
 
 
 /* v32 GLOBAL AD STANDARD
    Every 970x250 Fine Arts ad is always centered and never rendered smaller than 970x250. */
-#fine-arts-lol_970x250,
-.ad-slot-center #fine-arts-lol_970x250,
-.category-ad-wrap #fine-arts-lol_970x250,
-.ad-home#fine-arts-lol_970x250,
-.game-page-ad #fine-arts-lol_970x250{
+#paperio-pro_970x250,
+.ad-slot-center #paperio-pro_970x250,
+.category-ad-wrap #paperio-pro_970x250,
+.ad-home#paperio-pro_970x250,
+.game-page-ad #paperio-pro_970x250{
   display:block !important;
   width:970px !important;
   min-width:970px !important;
@@ -94,7 +94,7 @@ footer .footer-seo-copy{
   overflow-y:hidden !important;
 }
 
-#fine-arts-lol_970x250 iframe,
+#paperio-pro_970x250 iframe,
 .ad-slot-center iframe,
 .category-ad-wrap iframe,
 .game-page-ad iframe{
@@ -118,7 +118,7 @@ footer .footer-seo-copy{
     overflow-x:auto !important;
     -webkit-overflow-scrolling:touch;
   }
-  #fine-arts-lol_970x250{
+  #paperio-pro_970x250{
     margin-left:auto !important;
     margin-right:auto !important;
   }

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unblocked-1v1-lol-76.github.io/sitemap.xml
